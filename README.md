@@ -1,11 +1,11 @@
 # Tip-Calculator
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip-Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip-Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Michael Casey**
 
-Time spent: **X** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/N2OvaIo.gif)
+![](https://i.imgur.com/Q4pkx2B.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
